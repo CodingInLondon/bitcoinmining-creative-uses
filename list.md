@@ -7,9 +7,11 @@ This is a collection of concrete examples of usage of Bitcoin mining.
 Backgrounders:
 - [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) maintained by UK company Modo.
 
-### 1. Balance energy grids  
+### 1.1 Balance energy grids  
 
 #### Grid balancing in Texas
+
+
 #### Grid balancing in the UK
 #### France
 #### Other resources
