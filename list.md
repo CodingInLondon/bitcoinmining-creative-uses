@@ -1,6 +1,8 @@
 # Creative Uses of Timestamping
 
-This is a collection of concrete examples of usage of Bitcoin mining around the world.
+This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of the article [Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
+
+This format will be easier to maintain collaboratively going forward. 
 
 
 ## 1. Balance energy grids 
