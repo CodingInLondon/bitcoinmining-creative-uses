@@ -92,9 +92,10 @@ Companies active in this field:
 ### 3.3 Reward farms for capturing biogas 
 
 Ireland
-- [Scilling Mining](https://www.scillingmining.com/), [twitter](https://twitter.com/ScillingMining)
 - [In Remote Northeast Ireland, this Bitcoin Miner is Turning Biogas into Sats](https://bitcoinmagazine.com/business/profiting-on-biogas-with-bitcoin-mining) Article by Bitcoin Magazine, October 2022.
 - [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688) Video documentary by Joe Hall from Coin Telegraph.
+- The company behind the tech is [Scilling Mining](https://www.scillingmining.com/)
+  - Twitter: [https://twitter.com/ScillingMining](https://twitter.com/ScillingMining)
 
 France
 
