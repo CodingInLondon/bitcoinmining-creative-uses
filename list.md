@@ -1,6 +1,6 @@
 # Creative Uses of Timestamping
 
-This is a collection of concrete examples of usage of Bitcoin mining.
+This is a collection of concrete examples of usage of Bitcoin mining around the world.
 
 
 ## 1. Balance energy grids 
@@ -65,9 +65,18 @@ Other resources:
 
 ## 3. Create incentives to collect nasty stuff
 
+- [The problem with methane](https://youtu.be/oS1FGdngXVs?t=2898) Daniel Batten explains why capturing methane is a priority above reducing CO2 emissions. The video was recorded for Surfin Bitcoin 2022.
+
 
 ### 3.1 Pay oil exploration sites to flare gas cleanly
 
+- [Bitcoin mining can mitigate gas flaring](https://youtu.be/oS1FGdngXVs?t=6280) Presentation by Jaran Mellerud during Surfin Bitcoin 2022.
+- [Tour of a BTC farm at a flare gas oil well](https://www.youtube.com/watch?v=90ToBZ0PNqc) Video by Space Design Warehouse.
+- [Tour of a flare gas site in Texas](https://youtu.be/-MagKdbx_NY) Video by Space Design Warehouse.
+
+Companies active in this field:
+- [Cruzoe](https://www.crusoeenergy.com/digital-flare-mitigation)
+    - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the mention of "Data Centres".
 
 ### 3.2 Reward municipalities for capturing methane from landfills
 
