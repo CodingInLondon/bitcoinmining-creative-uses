@@ -66,6 +66,7 @@ Other resources:
 ## 3. Create incentives to collect nasty stuff
 
 - [The problem with methane](https://youtu.be/oS1FGdngXVs?t=2898) Daniel Batten explains why capturing methane is a priority above reducing CO2 emissions. The video was recorded for Surfin Bitcoin 2022.
+- [Bitcoin could become a zero-emission network: Report](https://cointelegraph.com/news/bitcoin-could-become-a-zero-emission-network-report) article by Coin Telegraph, August 2022.
 
 
 ### 3.1 Pay oil exploration sites to flare gas cleanly
@@ -75,13 +76,27 @@ Other resources:
 - [Tour of a flare gas site in Texas](https://youtu.be/-MagKdbx_NY) Video by Space Design Warehouse.
 
 Companies active in this field:
-- [Cruzoe](https://www.crusoeenergy.com/digital-flare-mitigation)
+- [Crusoe Energy](https://www.crusoeenergy.com/digital-flare-mitigation)
     - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the mention of "Data Centres".
+
 
 ### 3.2 Reward municipalities for capturing methane from landfills
 
+- [How a Landfill Gas Collection System Works](https://youtu.be/W3VayVWUrGM) explainer video by Landfill-Site.com
+- Companies active in this field:
+    - [Vespene Energy](https://vespene.energy/) 
+       - checkout their [twitter](https://twitter.com/Vespene_Energy)
+       - [Turning Garbage into Bitcoin with Adam Wright](https://www.youtube.com/watch?v=lCkHEqxDsYQ) CEO of Vespene Energy interviewed in What Bitcoin Did
+
 
 ### 3.3 Reward farms for capturing biogas 
+
+Ireland
+- [Scilling Mining](https://www.scillingmining.com/), [twitter](https://twitter.com/ScillingMining)
+- [In Remote Northeast Ireland, this Bitcoin Miner is Turning Biogas into Sats](https://bitcoinmagazine.com/business/profiting-on-biogas-with-bitcoin-mining) Article by Bitcoin Magazine, October 2022.
+- [How Irish farmers are turning cow dung into digital gold](https://www.youtube.com/watch?v=xkVOJAWP688) Video documentary by Joe Hall from Coin Telegraph.
+
+France
 
 
 ### 3.4 Reward people for not throwing away used cooking oil
