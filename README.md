@@ -5,3 +5,4 @@ During the first half of the 21st century, Bitcoin mining was just starting to m
 The file `List.md` is a collection of concrete examples recording how it looked like at the time, starting with the integration with the electricity grid but also all sorts of other industries.    
 
 
+This list is an ongoing research work in preparation of a book. Contributions welcome!
