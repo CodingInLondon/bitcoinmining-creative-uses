@@ -100,7 +100,8 @@ Ireland
   - Twitter: [https://twitter.com/ScillingMining](https://twitter.com/ScillingMining)
 
 France
-
+- [Datafarm Energy](https://datafarmenergy.com/en/home-en/) builds infrastructure to collect gas from biowaste.
+  - [the collected gas is collected and sent to a bitcoin miner](https://youtu.be/q_rXb5x-DjQ?t=61) and [hot air from ASICs is re-used to heat-up greenhouses](https://youtu.be/q_rXb5x-DjQ?t=1845) as explained by Stephane Petibon at Surfin Bitcoin 2022. 
 
 ### 3.4 Reward people for not throwing away used cooking oil
 
