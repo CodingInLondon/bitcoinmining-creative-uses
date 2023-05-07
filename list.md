@@ -124,12 +124,18 @@ Resources
 - [Hestiaa](https://hestiia.com/en) Company based in France.
   - [myEko](https://hestiia.com/en/myEko) Single room heating unit.
   - [SATO](https://hestiia.com/en/blog/the-incredible-story-of-sato) water heater.
-- [MinIT](https://www.minit.tresorio.com/) water boiler available in France._
+- [MinIT](https://www.minit.tresorio.com/) water boiler available in France.
+- [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
 
 
 ### 4.2 Industrial heating
 
-
+- [Whisky distillery](https://mintgreen.co/projects/shelter-point-distillery/) The Shelter Point Distillery project by Mintgreen in Canada.
+  - [The Mintgreen Whisky tumbler](https://www.youtube.com/watch?v=nTRdmYX-0h8&t=259s) *Warming Up to Bitcoin - The Future of Sustainable Heating?*, video by Kinetic Finance. The device is optimised to bring a smooth flow of hot air to whisky barrels.
+- [Mintgreen district heating](https://mintgreen.co/#projects), twitter [@MintGreenHQ](https://twitter.com/MintGreenHQ). 
+- [Sai.Tech](https://sai.tech/) Agriculture heating + district heating in the US with liquid cooling boilers.
+- [Bitcoin Bloem](http://www.bitcoinbloem.com/) Greenhouse heating in Holland to grow flowers. twitter [@BloemBitcoin](https://twitter.com/bloembitcoin)
+  - [Flower powered: Bitcoin miner heats greenhouses in the Netherlands](https://cointelegraph.com/news/flower-powered-bitcoin-miner-heats-greenhouses-in-the-netherlands) Article by Joe Hall in the CoinTelegraph.
 
 
 ## 5. Non Sustainable Uses of Timestamping
