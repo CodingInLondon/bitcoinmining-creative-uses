@@ -112,9 +112,24 @@ Guatemala
 
 ## 4. Reduce heating bills
 
+Resources
+- [Jaran Mellerud about heat reuse](https://youtu.be/oS1FGdngXVs?t=6333) speaking at Surfin Bitcoin 2022.
+- [Joule heating](https://en.wikipedia.org/wiki/Joule_heating) Current sent through a conductor produces heat whether it is a toaster or an ASIC.
+
 ### 4.1 Home heating
 
+- [Heatbit](https://heatbit.com/#product-mob)
+  - [Home heater 1400W ](https://twitter.com/heatbit_com/status/1641818109832036354?s=20) price <$1200.
+  - [Heatbit mini 300W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available Q4 2023 price <$750.
+- [Hestiaa](https://hestiia.com/en) Company based in France.
+  - [myEko](https://hestiia.com/en/myEko) Single room heating unit.
+  - [SATO](https://hestiia.com/en/blog/the-incredible-story-of-sato) water heater.
+- [MinIT](https://www.minit.tresorio.com/) water boiler available in France._
+
+
 ### 4.2 Industrial heating
+
+
 
 
 ## 5. Non Sustainable Uses of Timestamping
