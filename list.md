@@ -156,4 +156,7 @@ Figures:
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
 
+- [The theory of the last survivor](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
+- [Who will be the last survivor?](https://youtu.be/VF4rzFuQkyQ) Sebastien Gouspillou speaking on Grand Angle Crypto (in French).
+
 
