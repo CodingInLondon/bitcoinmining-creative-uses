@@ -136,6 +136,8 @@ Resources
 - [Sai.Tech](https://sai.tech/) Agriculture heating + district heating in the US with liquid cooling boilers.
 - [Bitcoin Bloem](http://www.bitcoinbloem.com/) Greenhouse heating in Holland to grow flowers. twitter [@BloemBitcoin](https://twitter.com/bloembitcoin)
   - [Flower powered: Bitcoin miner heats greenhouses in the Netherlands](https://cointelegraph.com/news/flower-powered-bitcoin-miner-heats-greenhouses-in-the-netherlands) Article by Joe Hall in the CoinTelegraph.
+  - [Warehouse heating](https://twitter.com/bitcoinbrabant/status/1577644318399029250) by Bitcoin Brabant.
+  - [Bitcoin Brabant twitter](https://twitter.com/BitcoinBrabant)
 
 
 ## 5. Non Sustainable Uses of Timestamping
