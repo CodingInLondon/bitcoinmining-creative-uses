@@ -115,6 +115,7 @@ Guatemala
 Resources
 - [Jaran Mellerud about heat reuse](https://youtu.be/oS1FGdngXVs?t=6333) speaking at Surfin Bitcoin 2022.
 - [Joule heating](https://en.wikipedia.org/wiki/Joule_heating) Current sent through a conductor produces heat whether it is a toaster or an ASIC.
+- [Re-using mining heat](https://nicosmid.substack.com/p/re-using-mining-heat?r=1id316&utm_campaign=post&utm_medium=web) Blog post by Nico Simid.
 
 ### 4.1 Home heating
 
@@ -138,6 +139,8 @@ Resources
   - [Flower powered: Bitcoin miner heats greenhouses in the Netherlands](https://cointelegraph.com/news/flower-powered-bitcoin-miner-heats-greenhouses-in-the-netherlands) Article by Joe Hall in the CoinTelegraph.
   - [Warehouse heating](https://twitter.com/bitcoinbrabant/status/1577644318399029250) by Bitcoin Brabant.
   - [Bitcoin Brabant twitter](https://twitter.com/BitcoinBrabant)
+ - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion) using immersion cooling by [DCX Immersion Mining]
+ - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
 ## 5. Non Sustainable Uses of Timestamping
