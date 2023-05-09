@@ -144,9 +144,11 @@ Resources
 
 
 ## 5. Non Sustainable Uses of Timestamping
-
  
 ### 5.1 Compete with residential users for the same electricity source. 
+
+- [2018 Moratorium on Bitcoin mining](https://youtu.be/-M6222N2_O8) in Plattsburgh, State of New York, USA. Video from Mountain Lake PBS. 
+- [2022 Moratorium on Bitcoin mining](https://www.investopedia.com/crypto-mining-ban-5409564) by the State of New York and proposed law to ban mining from fossil fuel. Article by Eric Rosenberg in Investopedia.
 
 ### 5.2 Use fossil fuels
 
