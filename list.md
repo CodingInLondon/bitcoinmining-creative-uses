@@ -1,8 +1,26 @@
 # Bitcoin and Energy
 
-This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of the article [Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
+This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of a blog post
 
-This format will be easier to maintain collaboratively going forward. 
+[Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
+
+The md format will be easier to maintain collaboratively going forward, using the following structure:
+
+[1. Balance energy grids](#1-balance-energy-grids)
+
+[2. Finance energy projects](#2-finance-energy-projects)
+
+[3. Create incentive to collect nasty stuff](#3-create-incentives-to-collect-nasty-stuff)
+
+[4. Reduce heating bills](#4-reduce-heating-bills)
+
+[5. Non sustainable usages of mining](#5-non-sustainable-uses-of-timestamping)
+
+
+Contribution guidelines: 
+- add references to the appropriate section using the existing structure
+- keep each entry short. Stick to one or two lines. Follow the existing format. 
+
 
 
 ## 1. Balance energy grids 

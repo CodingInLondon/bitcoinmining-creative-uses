@@ -7,5 +7,5 @@ Open the file [list.md](list.md) for a collection of concrete examples recording
 Today we take it for granted that important decisions are made in El Savador or Buthan. But it wasn't always like this. All countries that are now dominating the world, roughly in Africa and Latin America, were at the time called "developping countries" despite having a huge amount of sustainable energy resources in the form of sunshine, water streams and volcanoes.
 
 
-This [list of references](list.md) is an ongoing research work in preparation of a book. Contributions welcome!
+This [list of references](list.md) is an ongoing research work in preparation of a larger project. Contributions welcome!
 
