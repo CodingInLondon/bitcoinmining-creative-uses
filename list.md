@@ -1,4 +1,4 @@
-# Creative Uses of Timestamping
+# Bitcoin and Energy - List of References
 
 This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of the article [Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
 
@@ -159,11 +159,11 @@ Resources
 
 ### 5.2 Use fossil fuels
 
-Figures:
+
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
-
 - [The theory of the last survivor](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
 - [Who will be the last survivor?](https://youtu.be/VF4rzFuQkyQ) Sebastien Gouspillou speaking on Grand Angle Crypto (in French).
+- [Energy market economics 101: the generation stack](https://youtu.be/p9lLh8teeKA?t=98) Video by Modo Energy. Peaker plants running on fuel or gas are the most expensive layer of the stack.
 
 
