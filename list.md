@@ -1,4 +1,4 @@
-# Bitcoin and Energy - List of References
+# Bitcoin and Energy
 
 This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of the article [Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
 
@@ -69,7 +69,7 @@ Malawi
 - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk.
 
 Other resources:
-- [How Bitcoin Mining Can Transform the Bitcoin Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) report published in September 2022 by K33 Research (formerly Arcane Research). Required Google sign-in.
+- [How Bitcoin Mining Can Transform the Energy Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) Report published in September 2022 by K33 Research (formerly Arcane Research). Requires Google sign-in.
 
 
 ## 3. Create incentives to collect nasty stuff
@@ -86,12 +86,12 @@ Other resources:
 
 Companies active in this field:
 - [Crusoe Energy](https://www.crusoeenergy.com/digital-flare-mitigation)
-    - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the mention of "Data Centres".
+    - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the wording "Data Centres" instead of "Bitcoin Mining".
 
 
 ### 3.2 Reward municipalities for capturing methane from landfills
 
-- [How a Landfill Gas Collection System Works](https://youtu.be/W3VayVWUrGM) explainer video by Landfill-Site.com
+- [How a Landfill Gas Collection System Works](https://youtu.be/W3VayVWUrGM) Explainer video by Landfill-Site.com
 - Companies active in this field:
     - [Vespene Energy](https://vespene.energy/) 
        - checkout their [twitter](https://twitter.com/Vespene_Energy)
@@ -112,14 +112,13 @@ France
 
 ### 3.4 Reward people for not throwing away used cooking oil
 
-Guatemala
 - [Bitcoin Lake](https://twitter.com/LakeBitcoin) is a Bitcoin initiative in Guatemala that collects the cooking oil that would otherwise be thrown into the lake by villagers, as explained [here](https://twitter.com/namcios/status/1572705863252561922?s=46&t=B8L3kXZVJxzq4AJvktjj8Q).
   - [The cooking oil mining rig in action](https://twitter.com/DocumentingBTC/status/1570029184675901441) (video).   
 
 
 ## 4. Reduce heating bills
 
-Resources
+
 - [Jaran Mellerud about heat reuse](https://youtu.be/oS1FGdngXVs?t=6333) speaking at Surfin Bitcoin 2022.
 - [Joule heating](https://en.wikipedia.org/wiki/Joule_heating) Current sent through a conductor produces heat whether it is a toaster or an ASIC.
 - [Re-using mining heat](https://nicosmid.substack.com/p/re-using-mining-heat?r=1id316&utm_campaign=post&utm_medium=web) Blog post by Nico Simid.
@@ -152,13 +151,12 @@ Resources
 
 ## 5. Non Sustainable Uses of Timestamping
  
-### 5.1 Compete with residential users for the same electricity source. 
+### 5.1 Compete with residential users for the same electricity source
 
 - [2018 Moratorium on Bitcoin mining](https://youtu.be/-M6222N2_O8) in Plattsburgh, State of New York, USA. Video from Mountain Lake PBS. 
 - [2022 Moratorium on Bitcoin mining](https://www.investopedia.com/crypto-mining-ban-5409564) by the State of New York and proposed law to ban mining from fossil fuel. Article by Eric Rosenberg in Investopedia.
 
 ### 5.2 Use fossil fuels
-
 
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
