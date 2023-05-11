@@ -46,20 +46,27 @@ ERCOT:
 
 ## 2. Finance energy projects
 
+### 2.1 In Developped Countries
+
 Canada
 - [Mining Bitcoin with Nuclear Energy and Small Modular Reactors](https://youtu.be/6UdJ1Ak7Els) Ryan MacLeod interviewed in What Bitcoin Did
 - [Bitcoin mining with Small Modular Reactors](https://youtu.be/oA_mS--TaUw) Ryan MacLeod talking at Adopting Bitcoin 2022 in El Salvador
+
+Oman
+- [Green Data City](https://www.greendatacityoman.com/) Government project in Oman.
+- [Sebastien Gouspillou's announcement about Green Data City](https://youtu.be/iPJO9qThdIw?t=359) interviewed by GAC during Africa Bitcoin Conference 2023.
+
+### 2.2 In Emerging Countries
+
+Congo
+- [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
 
 Kenya
 - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams, built by Gridless.
 - [Gridless](https://twitter.com/GridlessCompute) Builds bitcoin mining in Africa
 
-Congo
-- [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
-
-Oman
-- [Green Data City](https://www.greendatacityoman.com/) Government project in Oman.
-- [Sebastien Gouspillou's announcement about Green Data City](https://youtu.be/iPJO9qThdIw?t=359) interviewed by GAC during Africa Bitcoin Conference 2023.
+Malawi
+- [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk.
 
 Other resources:
 - [How Bitcoin Mining Can Transform the Bitcoin Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) report published in September 2022 by K33 Research (formerly Arcane Research). Required Google sign-in.
