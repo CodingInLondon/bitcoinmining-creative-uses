@@ -14,7 +14,7 @@ The md format will be easier to maintain collaboratively going forward, using th
 
 [4. Reduce heating bills](#4-reduce-heating-bills)
 
-[5. Non sustainable usages of mining](#5-non-sustainable-uses-of-timestamping)
+[5. Non sustainable uses of mining](#5-non-sustainable-uses-of-timestamping)
 
 
 Contribution guidelines: 
@@ -26,7 +26,10 @@ Contribution guidelines:
 ## 1. Balance energy grids 
 
 Backgrounders:
-- [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) maintained by UK company Modo.
+- [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) Maintained by UK company Modo.
+
+- [Geopolitics and Bitcoin Mining](https://cryptocurrencymining.group/wp-content/uploads/2023/05/ID_Market_Insights_Geopolitics-BTC-Mining-230512.pdf) Report by [@BTCMiningGroup](https://twitter.com/BTCMiningGroup) on the state of Bitcoin mining around the world, 12 May 2023. 
+  - [Twitter thread summary of the report](https://twitter.com/DenisRusinovich/status/1657448398386089986?s=20)
 
 
 ### 1.1 Grid balancing in Texas
@@ -35,26 +38,20 @@ Backgrounders:
 ERCOT:
 
 
- - [what is curtailment](https://youtu.be/9ISSe8A3pVc?t=1132) (Bitcoin mining council Q2 2022)
-
- - [Economic incentives](https://youtu.be/9ISSe8A3pVc?t=1370) (Bitcoin mining council Q2 2022)
-
- - [selling back to the grid](https://youtu.be/9ISSe8A3pVc?t=1466) (Bitcoin mining council Q2 2022)
-
- - [demand-response types of contract](https://youtu.be/9ISSe8A3pVc?t=1466) (Pierre Rochard speaking at Surfing Bitcoin 2022)
-
- - [negative electricity prices](https://youtu.be/oS1FGdngXVs?t=5987) (Jaran Mellerud speaking at Surfing Bitcoin 2022)
+ - [what is curtailment](https://youtu.be/9ISSe8A3pVc?t=1132) Bitcoin mining council Q2 2022.
+ - [Economic incentives](https://youtu.be/9ISSe8A3pVc?t=1370) Bitcoin mining council Q2 2022.
+ - [selling back to the grid](https://youtu.be/9ISSe8A3pVc?t=1466) Bitcoin mining council Q2 2022
+ - [Demand-response types of contract](https://youtu.be/9ISSe8A3pVc?t=1466) Pierre Rochard speaking at Surfing Bitcoin 2022.
+ - [Negative electricity prices](https://youtu.be/oS1FGdngXVs?t=5987) Jaran Mellerud speaking at Surfing Bitcoin 2022.
 
 
 ### 1.2 Grid balancing in the UK
 
-- [Demand-side response program](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36&wmediaid=tjkmc4fldw) (The Energy Academy)
+- [Demand-side response program](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36&wmediaid=tjkmc4fldw) Education video by The Energy Academy from Modo Energy.
+- [Software to monitor on-demand control](https://optimizeinfrastructure.com/) Optimize Infrastructure website.
+- [Renewable energy projects worth billions stuck on hold](https://www.bbc.co.uk/news/science-environment-65500339?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=ED95988A-EF8E-11ED-AA70-00BCD772BE90) Article from BBC News, May 2023. There are delays in connecting new power plants to the grid. This is spare capacity that could be monetised with Bitcoin mining.
 
-- [Software to monitor on-demand control](https://optimizeinfrastructure.com/) (Optimize Infrastructure)
-
-- [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) Educational videos about energy by Modo Energy.
-
-### 1.3 Resources
+### 1.3 Other Resources
 
 - [Nima Tabatai](https://youtu.be/uMO28OP0EWg) from Modo Energy talking on What Bitcoin Did
 - [Why No One Saw The Success of Demand Response Coming](https://www.forbes.com/sites/jemmagreen/2023/01/27/why-no-one-saw-the-success-of-demand-response-coming) Forbes, Jan 2023
