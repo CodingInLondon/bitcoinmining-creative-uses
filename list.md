@@ -83,6 +83,9 @@ Kenya
 Malawi
 - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk.
 
+Indonesia
+- [The Indonesia Bitcoin Mining Campaign](https://www.youtube.com/live/484pyxKnxIQ?feature=share&t=1333) The governor of the West Java province declares the Bitcoin mining industry welcome in Indonesia to transform 200GW of spare renewable hydro and geo-thermal energy. 
+
 Other resources:
 - [How Bitcoin Mining Can Transform the Energy Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) Report published in September 2022 by K33 Research (formerly Arcane Research). Requires Google sign-in.
 
