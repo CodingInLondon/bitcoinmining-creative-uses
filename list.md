@@ -10,7 +10,7 @@ The md format will be easier to maintain collaboratively going forward, using th
 
 [2. Finance energy projects](#2-finance-energy-projects)
 
-[3. Create incentive to collect nasty stuff](#3-create-incentives-to-collect-nasty-stuff)
+[3. Create incentives to collect nasty stuff](#3-create-incentives-to-collect-nasty-stuff)
 
 [4. Reduce heating bills](#4-reduce-heating-bills)
 
