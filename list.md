@@ -98,9 +98,11 @@ Other resources:
 
 ### 3.1 Pay oil exploration sites to flare gas cleanly
 
+
 - [Bitcoin mining can mitigate gas flaring](https://youtu.be/oS1FGdngXVs?t=6280) Presentation by Jaran Mellerud during Surfin Bitcoin 2022.
 - [Tour of a BTC farm at a flare gas oil well](https://www.youtube.com/watch?v=90ToBZ0PNqc) Video by Space Design Warehouse.
 - [Tour of a flare gas site in Texas](https://youtu.be/-MagKdbx_NY) Video by Space Design Warehouse.
+- [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed) Article from the Guardian, May 2023.
 
 Companies active in this field:
 - [Crusoe Energy](https://www.crusoeenergy.com/digital-flare-mitigation)
