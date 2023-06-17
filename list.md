@@ -106,7 +106,9 @@ Other resources:
 
 Companies active in this field:
 - [Crusoe Energy](https://www.crusoeenergy.com/digital-flare-mitigation)
-    - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the wording "Data Centres" instead of "Bitcoin Mining".
+  - [How Crusoe Energy Catches Waste Methane to Power Data Centres](https://www.weforum.org/videos/this-start-up-catches-waste-methane-to-power-data-centres) Article published by the World Economic Forum. Note the wording "Data Centres" instead of "Bitcoin Mining".
+- [EZBlockchain](https://ezblockchain.net/smartgrid/)
+  - [Use cases](https://ezblockchain.net/cases/) Shows plenty of photographs of actual gas flaring installations. 
 
 
 ### 3.2 Reward municipalities for capturing methane from landfills
