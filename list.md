@@ -167,7 +167,9 @@ France
   - [Flower powered: Bitcoin miner heats greenhouses in the Netherlands](https://cointelegraph.com/news/flower-powered-bitcoin-miner-heats-greenhouses-in-the-netherlands) Article by Joe Hall in the CoinTelegraph.
   - [Warehouse heating](https://twitter.com/bitcoinbrabant/status/1577644318399029250) by Bitcoin Brabant.
   - [Bitcoin Brabant twitter](https://twitter.com/BitcoinBrabant)
- - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion) using immersion cooling by [DCX Immersion Mining]
+ - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion/status/1578812160641478656?s=20) using immersion cooling by [DCX Immersion Mining](https://twitter.com/DCX_Immersion).
+ - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up 
+   - [Bathhouse NYC website](https://www.abathhouse.com/).  
  - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
