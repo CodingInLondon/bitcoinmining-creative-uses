@@ -51,8 +51,14 @@ ERCOT:
 - [Software to monitor on-demand control](https://optimizeinfrastructure.com/) Optimize Infrastructure website.
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.co.uk/news/science-environment-65500339?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=ED95988A-EF8E-11ED-AA70-00BCD772BE90) Article from BBC News, May 2023. There are delays in connecting new power plants to the grid. This is spare capacity that could be monetised with Bitcoin mining.
 
-### 1.3 Other Resources
 
+### 1.3 Grid balancing in the UAE
+
+- [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/) Research article by Jaran Mellerud. 
+
+### 1.4 Other Resources
+
+- [Bitcoin mining around the world](https://hashrateindex.com/blog/tag/bitcoin-mining-around-the-world/) Series of in-depth research articles by Jaran Mellerud.
 - [Nima Tabatai](https://youtu.be/uMO28OP0EWg) from Modo Energy talking on What Bitcoin Did
 - [Why No One Saw The Success of Demand Response Coming](https://www.forbes.com/sites/jemmagreen/2023/01/27/why-no-one-saw-the-success-of-demand-response-coming) Forbes, Jan 2023
 - [Pay-as-you-go electricity bills with Lightning](https://www.synota.io/) (Synota)
@@ -168,8 +174,8 @@ France
   - [Warehouse heating](https://twitter.com/bitcoinbrabant/status/1577644318399029250) by Bitcoin Brabant.
   - [Bitcoin Brabant twitter](https://twitter.com/BitcoinBrabant)
  - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion/status/1578812160641478656?s=20) using immersion cooling by [DCX Immersion Mining](https://twitter.com/DCX_Immersion).
- - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up 
-   - [Bathhouse NYC website](https://www.abathhouse.com/).  
+ - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up. 
+   - Bathhouse NYC [website](https://www.abathhouse.com/).  
  - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
