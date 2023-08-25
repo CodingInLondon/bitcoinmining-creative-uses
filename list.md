@@ -52,7 +52,7 @@ ERCOT:
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.co.uk/news/science-environment-65500339?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=ED95988A-EF8E-11ED-AA70-00BCD772BE90) Article from BBC News, May 2023. There are delays in connecting new power plants to the grid. This is spare capacity that could be monetised with Bitcoin mining.
 
 
-### 1.3 Grid balancing in the UAE
+### 1.3 Grid balancing in the UAE with fossil fuel
 
 - [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/) Research article by Jaran Mellerud. 
 
@@ -98,6 +98,7 @@ Other resources:
 
 ## 3. Create incentives to collect nasty stuff
 
+
 - [The problem with methane](https://youtu.be/oS1FGdngXVs?t=2898) Daniel Batten explains why capturing methane is a priority above reducing CO2 emissions. The video was recorded for Surfin Bitcoin 2022.
 - [Bitcoin could become a zero-emission network: Report](https://cointelegraph.com/news/bitcoin-could-become-a-zero-emission-network-report) article by Coin Telegraph, August 2022.
 
@@ -142,6 +143,14 @@ France
 
 - [Bitcoin Lake](https://twitter.com/LakeBitcoin) is a Bitcoin initiative in Guatemala that collects the cooking oil that would otherwise be thrown into the lake by villagers, as explained [here](https://twitter.com/namcios/status/1572705863252561922?s=46&t=B8L3kXZVJxzq4AJvktjj8Q).
   - [The cooking oil mining rig in action](https://twitter.com/DocumentingBTC/status/1570029184675901441) (video).   
+
+
+### 3.5 Other Sources
+
+- [Bitcoin's role in the ESG imperative](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2023/bitcoins-role-esg-imperative.pdf) report by KPMG, August 2023.
+- [Bitcoin Network To Reduce More Emissions Than Its Energy Sources Produce](https://www.forbes.com/sites/digital-assets/2023/07/08/bitcoin-network-to-reduce-more-emissions-than-its-energy-sources-produce/) Forbes article, July 2023.
+- [Everything You Need To Know About Bitcoin And The Environment](https://www.forbes.com/sites/digital-assets/2023/07/07/everything-you-need-to-know-about-bitcoin-and-the-environment/) Forbes article, July 2023.
+
 
 
 ## 4. Reduce heating bills
