@@ -125,9 +125,11 @@ Companies active in this field:
     - [Vespene Energy](https://vespene.energy/) 
        - checkout their [twitter](https://twitter.com/Vespene_Energy)
        - [Turning Garbage into Bitcoin with Adam Wright](https://www.youtube.com/watch?v=lCkHEqxDsYQ) CEO of Vespene Energy interviewed in What Bitcoin Did
+   - [Nodal Power](https://www.nodalpower.com/)
+       - [Nodal Power secures $13 million seed round to drive renewable energy transition at landfills](https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills) Bitcoin Magazine article, August 2023.
 
 
-### 3.3 Reward farms for capturing biogas 
+### 3.3 Reward farms for capturing biogas... 
 
 Ireland
 - [In Remote Northeast Ireland, this Bitcoin Miner is Turning Biogas into Sats](https://bitcoinmagazine.com/business/profiting-on-biogas-with-bitcoin-mining) Article by Bitcoin Magazine, October 2022.
@@ -139,7 +141,7 @@ France
 - [Datafarm Energy](https://datafarmenergy.com/en/home-en/) builds infrastructure to collect gas from biowaste.
   - [the collected gas is sent to a bitcoin miner](https://youtu.be/q_rXb5x-DjQ?t=61) and [hot air from ASICs is re-used to heat-up greenhouses](https://youtu.be/q_rXb5x-DjQ?t=1845) as explained by Stephane Petibon at Surfin Bitcoin 2022. 
 
-### 3.4 Reward people for not throwing away used cooking oil
+### 3.4 ...and even cooking oil
 
 - [Bitcoin Lake](https://twitter.com/LakeBitcoin) is a Bitcoin initiative in Guatemala that collects the cooking oil that would otherwise be thrown into the lake by villagers, as explained [here](https://twitter.com/namcios/status/1572705863252561922?s=46&t=B8L3kXZVJxzq4AJvktjj8Q).
   - [The cooking oil mining rig in action](https://twitter.com/DocumentingBTC/status/1570029184675901441) (video).   
