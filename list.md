@@ -61,8 +61,9 @@ ERCOT:
 - [Bitcoin mining around the world](https://hashrateindex.com/blog/tag/bitcoin-mining-around-the-world/) Series of in-depth research articles by Jaran Mellerud.
 - [Nima Tabatai](https://youtu.be/uMO28OP0EWg) from Modo Energy talking on What Bitcoin Did
 - [Why No One Saw The Success of Demand Response Coming](https://www.forbes.com/sites/jemmagreen/2023/01/27/why-no-one-saw-the-success-of-demand-response-coming) Forbes, Jan 2023
-- [Pay-as-you-go electricity bills with Lightning](https://www.synota.io/) (Synota)
-- [Lightning electricity meters explained](https://youtu.be/kvVsguudUaE) (Austin Mitchell from Synota interviewed by Preston Pysh)
+- [Pay-as-you-go electricity bills with Lightning](https://www.synota.io/) Synota company website
+- [Lightning electricity meters explained](https://youtu.be/kvVsguudUaE) Video of Austin Mitchell from Synota interviewed by Preston Pysh
+- [Load banks](https://twitter.com/dsbatten/status/1705139524534489117?s=61&t=M24ZUm1ExYgHLnQ8D16I8Q) Tweet by Daniel Batten
 
 
 ## 2. Finance energy projects
