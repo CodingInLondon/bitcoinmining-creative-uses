@@ -80,6 +80,11 @@ Oman
 
 ### 2.2 In Emerging Countries
 
+El Salvador
+- [Volcano Energy Mining Pool Goes Live](https://bitcoinmagazine.com/business/volcano-energy-bitcoin-mining-pool-goes-live?utm_source=pocket_saves) Article in Bitcoin Magazine.
+- [Volcano Energy](https://twitter.com/Volcano_Energy?s=20) on Twitter.
+
+
 Congo
 - [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
 
