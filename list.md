@@ -155,6 +155,7 @@ France
 
 ### 3.5 Other Sources
 
+- [Bitcoin and the Energy Transition from Risk To Opportunity](https://issuu.com/irmglobal/docs/bitcoin_and_the_energy_transition_from_risk_to_opp) Research paper by Institute of Risk Management, September 2023. 
 - [Bitcoin's role in the ESG imperative](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2023/bitcoins-role-esg-imperative.pdf) report by KPMG, August 2023.
 - [Bitcoin Network To Reduce More Emissions Than Its Energy Sources Produce](https://www.forbes.com/sites/digital-assets/2023/07/08/bitcoin-network-to-reduce-more-emissions-than-its-energy-sources-produce/) Forbes article, July 2023.
 - [Everything You Need To Know About Bitcoin And The Environment](https://www.forbes.com/sites/digital-assets/2023/07/07/everything-you-need-to-know-about-bitcoin-and-the-environment/) Forbes article, July 2023.
