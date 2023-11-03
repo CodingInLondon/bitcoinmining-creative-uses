@@ -161,7 +161,6 @@ France
 - [Everything You Need To Know About Bitcoin And The Environment](https://www.forbes.com/sites/digital-assets/2023/07/07/everything-you-need-to-know-about-bitcoin-and-the-environment/) Forbes article, July 2023.
 
 
-
 ## 4. Reduce heating bills
 
 
@@ -171,13 +170,11 @@ France
 
 ### 4.1 Home heating
 
-- [Heatbit](https://heatbit.com/#product-mob)
-  - [Home heater 1400W ](https://twitter.com/heatbit_com/status/1641818109832036354?s=20) price <$1200.
+- [Heatbit](https://heatbit.com)
   - [Heatbit mini 300W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available Q4 2023 price <$750.
 - [Hestiaa](https://hestiia.com/en) Company based in France.
   - [myEko](https://hestiia.com/en/myEko) Single room heating unit.
   - [SATO](https://hestiia.com/en/blog/the-incredible-story-of-sato) water heater.
-- [MinIT](https://www.minit.tresorio.com/) water boiler available in France.
 - [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
 
 
