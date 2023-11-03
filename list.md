@@ -88,12 +88,13 @@ El Salvador
 Congo
 - [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
 
-Kenya
-- [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams, built by Gridless.
-- [Gridless](https://twitter.com/GridlessCompute) Builds bitcoin mining in Africa
-
-Malawi
-- [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk.
+Nigeria, Kenya, Malawi
+- [The surprising, simple answer to Africa’s rural energy problems – Bitcoin mining](https://www.msn.com/en-za/news/other/the-surprising-simple-answer-to-africa-s-rural-energy-problems-bitcoin-mining/ar-AA1hiJ6p) Msn article explaining the economics behind mini grids, September 2023.
+- [Post Halving Strategies For Miners - Bitcoin Amsterdam 2023](https://youtu.be/S3X6UDCwd8w?si=iEb7aA4sHd-myMLe&t=1414) Nigeria government allows individuals to produce up to 1MW of electricity (mini grids).
+- [Gridless](https://gridlesscompute.com/) Specialise in river and solar bitcoin mining in Africa
+  - [Gridless twitter](https://twitter.com/GridlessCompute)
+  - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk, April 2023.
+  - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
 
 Indonesia
 - [The Indonesia Bitcoin Mining Campaign](https://www.youtube.com/live/484pyxKnxIQ?feature=share&t=1333) Video from Bitcoin 2023 in Miami. The governor of the West Java province declares the Bitcoin mining industry welcome in Indonesia to transform 200GW of spare renewable hydro and geo-thermal energy. 
@@ -133,6 +134,9 @@ Companies active in this field:
        - [Turning Garbage into Bitcoin with Adam Wright](https://www.youtube.com/watch?v=lCkHEqxDsYQ) CEO of Vespene Energy interviewed in What Bitcoin Did
    - [Nodal Power](https://www.nodalpower.com/)
        - [Nodal Power secures $13 million seed round to drive renewable energy transition at landfills](https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills) Bitcoin Magazine article, August 2023.
+   - [Marathon Digital Holdings](https://www.mara.com/)
+       - [Marathon Digital Holdings X BM PRO Present Cashing In On Trash](https://bmpro.substack.com/p/report-marathon-digital-holdings) Report on landfill methane capture by Marathon, September 2023.
+       - [Cashing in on Trash: Bitcoin Mining Fixes Landfill Emissions](https://www.youtube.com/watch?v=XwDh8I6FfEQ&list=PL_dlgCybckirJ-ldLULlKc39C3WTv5-xh&index=3) Bitcoin magazine interview of Adam Swick from Marathon Digital, October 2023.
 
 
 ### 3.3 Reward farms for capturing biogas... 
