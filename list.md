@@ -22,14 +22,19 @@ Contribution guidelines:
 - keep each entry short. Stick to one or two lines. Follow the existing format. 
 
 
+General resources:
+
+- [How Bitcoin Mining Can Transform the Energy Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) Report published in September 2022 by K33 Research (formerly Arcane Research). Requires Google sign-in.
+- [Geopolitics and Bitcoin Mining](https://cryptocurrencymining.group/wp-content/uploads/2023/05/ID_Market_Insights_Geopolitics-BTC-Mining-230512.pdf) Report by [@BTCMiningGroup](https://twitter.com/BTCMiningGroup) on the state of Bitcoin mining around the world, 12 May 2023. 
+  - [Twitter thread summary of the report](https://twitter.com/DenisRusinovich/status/1657448398386089986?s=20)
+
 
 ## 1. Balance energy grids 
 
 Backgrounders:
 - [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) Maintained by UK company Modo.
 
-- [Geopolitics and Bitcoin Mining](https://cryptocurrencymining.group/wp-content/uploads/2023/05/ID_Market_Insights_Geopolitics-BTC-Mining-230512.pdf) Report by [@BTCMiningGroup](https://twitter.com/BTCMiningGroup) on the state of Bitcoin mining around the world, 12 May 2023. 
-  - [Twitter thread summary of the report](https://twitter.com/DenisRusinovich/status/1657448398386089986?s=20)
+
 
 
 ### 1.1 Grid balancing in Texas
@@ -101,14 +106,16 @@ Nigeria, Kenya, Malawi
 Indonesia
 - [The Indonesia Bitcoin Mining Campaign](https://www.youtube.com/live/484pyxKnxIQ?feature=share&t=1333) Video from Bitcoin 2023 in Miami. The governor of the West Java province declares the Bitcoin mining industry welcome in Indonesia to transform 200GW of spare renewable hydro and geo-thermal energy. 
 
-Other resources:
-- [How Bitcoin Mining Can Transform the Energy Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) Report published in September 2022 by K33 Research (formerly Arcane Research). Requires Google sign-in.
 
 
 ## 3. Create incentives to collect nasty stuff
 
 
 - [The problem with methane](https://youtu.be/oS1FGdngXVs?t=2898) Daniel Batten explains why capturing methane is a priority above reducing CO2 emissions. The video was recorded for Surfin Bitcoin 2022.
+- [Bitcoin's role in the ESG imperative](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2023/bitcoins-role-esg-imperative.pdf) report by KPMG, August 2023.
+- [Bitcoin and the Energy Transition from Risk To Opportunity](https://issuu.com/irmglobal/docs/bitcoin_and_the_energy_transition_from_risk_to_opp) Research paper by Institute of Risk Management, September 2023. 
+- [Bitcoin Network To Reduce More Emissions Than Its Energy Sources Produce](https://www.forbes.com/sites/digital-assets/2023/07/08/bitcoin-network-to-reduce-more-emissions-than-its-energy-sources-produce/) Forbes article, July 2023.
+- [Everything You Need To Know About Bitcoin And The Environment](https://www.forbes.com/sites/digital-assets/2023/07/07/everything-you-need-to-know-about-bitcoin-and-the-environment/) Forbes article, July 2023.
 - [Bitcoin could become a zero-emission network: Report](https://cointelegraph.com/news/bitcoin-could-become-a-zero-emission-network-report) article by Coin Telegraph, August 2022.
 
 
@@ -134,6 +141,7 @@ Companies active in this field:
     - [Vespene Energy](https://vespene.energy/) 
        - checkout their [twitter](https://twitter.com/Vespene_Energy)
        - [Turning Garbage into Bitcoin with Adam Wright](https://www.youtube.com/watch?v=lCkHEqxDsYQ) CEO of Vespene Energy interviewed in What Bitcoin Did
+       - [Methane destruction efficiency in turbine vs flaring](https://x.com/Vespene_Energy/status/1592899434710708225?s=20) Tweet from Vespene Energy illustrating efficiency of turbines to process methane. Open flaring is not as clean. 
    - [Nodal Power](https://www.nodalpower.com/)
        - [Nodal Power secures $13 million seed round to drive renewable energy transition at landfills](https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills) Bitcoin Magazine article, August 2023.
    - [Marathon Digital Holdings](https://www.mara.com/)
@@ -158,13 +166,6 @@ France
 - [Bitcoin Lake](https://twitter.com/LakeBitcoin) is a Bitcoin initiative in Guatemala that collects the cooking oil that would otherwise be thrown into the lake by villagers, as explained [here](https://twitter.com/namcios/status/1572705863252561922?s=46&t=B8L3kXZVJxzq4AJvktjj8Q).
   - [The cooking oil mining rig in action](https://twitter.com/DocumentingBTC/status/1570029184675901441) (video).   
 
-
-### 3.5 Other Sources
-
-- [Bitcoin and the Energy Transition from Risk To Opportunity](https://issuu.com/irmglobal/docs/bitcoin_and_the_energy_transition_from_risk_to_opp) Research paper by Institute of Risk Management, September 2023. 
-- [Bitcoin's role in the ESG imperative](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2023/bitcoins-role-esg-imperative.pdf) report by KPMG, August 2023.
-- [Bitcoin Network To Reduce More Emissions Than Its Energy Sources Produce](https://www.forbes.com/sites/digital-assets/2023/07/08/bitcoin-network-to-reduce-more-emissions-than-its-energy-sources-produce/) Forbes article, July 2023.
-- [Everything You Need To Know About Bitcoin And The Environment](https://www.forbes.com/sites/digital-assets/2023/07/07/everything-you-need-to-know-about-bitcoin-and-the-environment/) Forbes article, July 2023.
 
 
 ## 4. Reduce heating bills
