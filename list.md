@@ -87,6 +87,8 @@ El Salvador
 
 Congo
 - [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
+- [The Bitcoin miracle at Virunga](https://www.youtube.com/live/i7VERpwwTPY?si=JikPBhyDlbTyJavy&t=17345) Intervention of Sebastien Gouspillou at Adopting Bitcoin 2023 to give an update on activities in the Virunga Park (timestamp 4:49'00'')
+
 
 Nigeria, Kenya, Malawi
 - [The surprising, simple answer to Africa’s rural energy problems – Bitcoin mining](https://www.msn.com/en-za/news/other/the-surprising-simple-answer-to-africa-s-rural-energy-problems-bitcoin-mining/ar-AA1hiJ6p) Msn article explaining the economics behind mini grids, September 2023.
