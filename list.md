@@ -24,6 +24,9 @@ Contribution guidelines:
 
 General resources:
 
+- [Bitcoin Mining Council H1 2023 presentation](https://bitcoinminingcouncil.com/wp-content/uploads/2023/08/BMC-H1-2023-Presentation.pdf) Latest energy data collected by the Bitcoin Mining Council
+- [Cambridge Bitcoin energy usage estimate](https://ccaf.io/cbnsi/cbeci) University of Cambridge estimated lower-upper bounds for Bitcoin network electricity consumption.
+- [Cambridge Bitcoin CO2 emission compared](https://ccaf.io/cbnsi/cbeci/ghg/comparisons) Comparaison of Bitcoin emissions with other industries and global share.
 - [How Bitcoin Mining Can Transform the Energy Industry](https://k33.com/research/reports/industry-reports/how-bitcoin-mining-can-transform-the-energy-industry) Report published in September 2022 by K33 Research (formerly Arcane Research). Requires Google sign-in.
 - [Geopolitics and Bitcoin Mining](https://cryptocurrencymining.group/wp-content/uploads/2023/05/ID_Market_Insights_Geopolitics-BTC-Mining-230512.pdf) Report by [@BTCMiningGroup](https://twitter.com/BTCMiningGroup) on the state of Bitcoin mining around the world, 12 May 2023. 
   - [Twitter thread summary of the report](https://twitter.com/DenisRusinovich/status/1657448398386089986?s=20)
@@ -92,7 +95,7 @@ El Salvador
 
 Congo
 - [Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/) Article in MIT Technology Review
-- [The Bitcoin miracle at Virunga](https://www.youtube.com/live/i7VERpwwTPY?si=JikPBhyDlbTyJavy&t=17345) Intervention of Sebastien Gouspillou at Adopting Bitcoin 2023 to give an update on activities in the Virunga Park (timestamp 4:49'00'')
+- [The Bitcoin miracle at Virunga](https://youtu.be/D2eri4eOa3c?si=kXO2LPtrTSA13itX) Intervention of Sebastien Gouspillou at Adopting Bitcoin 2023 to give an update on activities in the Virunga Park 
 
 
 Nigeria, Kenya, Malawi
@@ -102,6 +105,10 @@ Nigeria, Kenya, Malawi
   - [Gridless twitter](https://twitter.com/GridlessCompute)
   - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk, April 2023.
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
+
+Bhutan
+  - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
+  - [Bhutan Plans a $500 Million Fund for Crypto Mining in the Himalayas](https://www.bitdeer.com/news/bhutan-plans-a-500-million-fund-for-crypto-mining-in-the-himalayas) Announcement by Bitdeer, May 2023.
 
 Indonesia
 - [The Indonesia Bitcoin Mining Campaign](https://www.youtube.com/live/484pyxKnxIQ?feature=share&t=1333) Video from Bitcoin 2023 in Miami. The governor of the West Java province declares the Bitcoin mining industry welcome in Indonesia to transform 200GW of spare renewable hydro and geo-thermal energy. 
@@ -120,7 +127,6 @@ Indonesia
 
 
 ### 3.1 Pay oil exploration sites to flare gas cleanly
-
 
 - [Bitcoin mining can mitigate gas flaring](https://youtu.be/oS1FGdngXVs?t=6280) Presentation by Jaran Mellerud during Surfin Bitcoin 2022.
 - [Tour of a BTC farm at a flare gas oil well](https://www.youtube.com/watch?v=90ToBZ0PNqc) Video by Space Design Warehouse.
