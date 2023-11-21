@@ -39,7 +39,6 @@ Backgrounders:
 
 
 
-
 ### 1.1 Grid balancing in Texas
 
 
@@ -77,6 +76,12 @@ ERCOT:
 ## 2. Finance energy projects
 
 ### 2.1 In Developped Countries
+
+
+UK (the potential for mining stranded energy)
+- [Renewable energy projects worth billions stuck on hold](https://www.bbc.com/news/science-environment-65500339) BBC article on the issue of interconnect queues in the UK.
+- [British energy developers to be told: speed up projects or leave queue for grid](https://www.theguardian.com/business/2023/jun/02/britibritish-energy-developers-projects-national-grid-solar-power) Guardian article on the issue of interconnect queues for solar projects in the UK.
+
 
 Canada
 - [Mining Bitcoin with Nuclear Energy and Small Modular Reactors](https://youtu.be/6UdJ1Ak7Els) Ryan MacLeod interviewed in What Bitcoin Did
