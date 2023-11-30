@@ -24,6 +24,8 @@ Contribution guidelines:
 
 General resources:
 
+- [Understanding Proof of Work - A non technical introduction to bitcoin mining and its implications for investors](https://www.fidelitydigitalassets.com/research-and-insights/understanding-proof-work) Paper by Fidelity Digital Assets.
+- [Chapter 10 - Mining and Consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) Technical explanation of Bitcoin mining in *Mastering Bitcoin* by Andreas Antonopoulos.
 - [Bitcoin Mining Council H1 2023 presentation](https://bitcoinminingcouncil.com/wp-content/uploads/2023/08/BMC-H1-2023-Presentation.pdf) Latest energy data collected by the Bitcoin Mining Council
 - [Cambridge Bitcoin energy usage estimate](https://ccaf.io/cbnsi/cbeci) University of Cambridge estimated lower-upper bounds for Bitcoin network electricity consumption.
 - [Cambridge Bitcoin CO2 emission compared](https://ccaf.io/cbnsi/cbeci/ghg/comparisons) Comparaison of Bitcoin emissions with other industries and global share.
