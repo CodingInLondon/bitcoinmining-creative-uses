@@ -111,6 +111,7 @@ Nigeria, Kenya, Malawi
 - [Gridless](https://gridlesscompute.com/) Specialise in river and solar bitcoin mining in Africa
   - [Gridless twitter](https://twitter.com/GridlessCompute)
   - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk, April 2023.
+  - [Energy and Bitcoin in Africa](https://gridlesscompute.com/2023/05/17/a-blueprint-for-bitcoin-mining-and-energy-in-africa/) Paper by Gridless that explains the business case and technical set-up behind mini-grids in rural Africa.
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
 
 Bhutan
@@ -225,8 +226,8 @@ France
 
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
-- [The theory of the last survivor](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
-- [Who will be the last survivor?](https://youtu.be/VF4rzFuQkyQ) Sebastien Gouspillou speaking on Grand Angle Crypto (in French).
+- [The theory of the last man standing](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
+- [Who will be the last man standing?](https://youtu.be/VF4rzFuQkyQ) Sebastien Gouspillou speaking on Grand Angle Crypto (in French).
 - [Energy market economics 101: the generation stack](https://youtu.be/p9lLh8teeKA?t=98) Video by Modo Energy. Peaker plants running on fuel or gas are the most expensive layer of the stack.
 
 
