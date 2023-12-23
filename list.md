@@ -212,6 +212,7 @@ France
  - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion/status/1578812160641478656?s=20) using immersion cooling by [DCX Immersion Mining](https://twitter.com/DCX_Immersion).
  - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up. 
    - Bathhouse NYC [website](https://www.abathhouse.com/).  
+   - [Bathhouse video](https://twitter.com/MorningBrew/status/1736862534265688369) mini video report by MorningBrew showing details of the equipment.
  - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
