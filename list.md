@@ -84,6 +84,9 @@ UK (the potential for mining stranded energy)
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.com/news/science-environment-65500339) BBC article on the issue of interconnect queues in the UK.
 - [British energy developers to be told: speed up projects or leave queue for grid](https://www.theguardian.com/business/2023/jun/02/britibritish-energy-developers-projects-national-grid-solar-power) Guardian article on the issue of interconnect queues for solar projects in the UK.
 
+US
+- [From Mining to Mitigation: How Bitcoin Can Support Renewable Energy Development and Climate Action](https://pubs.acs.org/doi/epdf/10.1021/acssuschemeng.3c05445) Study published in *ACS Sustainable Chemistry & Engineering*.
+
 
 Canada
 - [Mining Bitcoin with Nuclear Energy and Small Modular Reactors](https://youtu.be/6UdJ1Ak7Els) Ryan MacLeod interviewed in What Bitcoin Did
@@ -212,7 +215,7 @@ France
  - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion/status/1578812160641478656?s=20) using immersion cooling by [DCX Immersion Mining](https://twitter.com/DCX_Immersion).
  - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up. 
    - Bathhouse NYC [website](https://www.abathhouse.com/).  
-   - [Bathhouse video](https://twitter.com/MorningBrew/status/1736862534265688369) mini video report by MorningBrew showing details of the equipment.
+   - [Mini video report](https://twitter.com/MorningBrew/status/1736862534265688369) by MorningBrew showing details of the equipment.
  - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
