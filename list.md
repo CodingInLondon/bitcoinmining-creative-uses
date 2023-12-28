@@ -88,6 +88,10 @@ US
 - [From Mining to Mitigation: How Bitcoin Can Support Renewable Energy Development and Climate Action](https://pubs.acs.org/doi/epdf/10.1021/acssuschemeng.3c05445) Study published in *ACS Sustainable Chemistry & Engineering*.
 
 
+Hawaii:
+- [Ocean Bit](https://www.oceanbitenergy.com/about) website of the company researching ocean energy generation 'OTEC'
+- [How Bitcoin Can Unlock The Energy Of The Ocean For 1 Billion People](https://www.nasdaq.com/articles/how-bitcoin-can-unlock-the-energy-of-the-ocean-for-1-billion-people) Detailed article explaining the origin of OTEC, how it works and the business case for bitcoin mining financing of prototypes.
+
 Canada
 - [Mining Bitcoin with Nuclear Energy and Small Modular Reactors](https://youtu.be/6UdJ1Ak7Els) Ryan MacLeod interviewed in What Bitcoin Did
 - [Bitcoin mining with Small Modular Reactors](https://youtu.be/oA_mS--TaUw) Ryan MacLeod talking at Adopting Bitcoin 2022 in El Salvador
