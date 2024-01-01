@@ -120,6 +120,7 @@ Nigeria, Kenya, Malawi
   - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk, April 2023.
   - [Energy and Bitcoin in Africa](https://gridlesscompute.com/2023/05/17/a-blueprint-for-bitcoin-mining-and-energy-in-africa/) Paper by Gridless that explains the business case and technical set-up behind mini-grids in rural Africa.
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
+  - [Bitcoin in Africa Show: Live from 2023 Africa Bitcoin Mining Summit; Gridless's Gitugu Site Tour](https://youtu.be/1v7Q6SD3wjc?feature=shared) Detailed visit of a hydro power site in Kenya.
 
 Bhutan
   - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
