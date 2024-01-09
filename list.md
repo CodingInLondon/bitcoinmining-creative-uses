@@ -1,28 +1,29 @@
 # Bitcoin and Energy
 
+
+
+
 This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of a blog post
-
-[Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping)
-
-The md format will be easier to maintain collaboratively going forward, using the following structure:
-
-[1. Balance energy grids](#1-balance-energy-grids)
-
-[2. Finance energy projects](#2-finance-energy-projects)
-
-[3. Create incentives to collect nasty stuff](#3-create-incentives-to-collect-nasty-stuff)
-
-[4. Reduce heating bills](#4-reduce-heating-bills)
-
-[5. Non sustainable uses of mining](#5-non-sustainable-uses-of-timestamping)
+[Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping).
 
 
-Contribution guidelines: 
-- add references to the appropriate section using the existing structure
-- keep each entry short. Stick to one or two lines. Follow the existing format. 
 
 
-General resources:
+[1. General Resources](#1-general-resources)  
+[2. Balance energy grids](#2-balance-energy-grids)  
+[3. Finance energy projects](#3-finance-energy-projects)  
+[4. Create incentives to capture methane](#4-create-incentives-to-collect-nasty-stuff)  
+[5. Reduce heating bills](#5-reduce-heating-bills)  
+[6. Non sustainable uses of mining](#6-non-sustainable-uses-of-timestamping)
+
+
+
+![](Cover3.jpg)
+
+
+
+
+## 1. General resources:
 
 - [Understanding Proof of Work - A non technical introduction to bitcoin mining and its implications for investors](https://www.fidelitydigitalassets.com/research-and-insights/understanding-proof-work) Paper by Fidelity Digital Assets.
 - [Chapter 10 - Mining and Consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) Technical explanation of Bitcoin mining in *Mastering Bitcoin* by Andreas Antonopoulos.
@@ -34,14 +35,14 @@ General resources:
   - [Twitter thread summary of the report](https://twitter.com/DenisRusinovich/status/1657448398386089986?s=20)
 
 
-## 1. Balance energy grids 
+## 2. Balance energy grids 
 
 Backgrounders:
 - [The Energy Academy](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36) Maintained by UK company Modo.
 
 
 
-### 1.1 Grid balancing in Texas
+### 2.1 Grid balancing in Texas
 
 
 ERCOT:
@@ -54,18 +55,18 @@ ERCOT:
  - [Negative electricity prices](https://youtu.be/oS1FGdngXVs?t=5987) Jaran Mellerud speaking at Surfing Bitcoin 2022.
 
 
-### 1.2 Grid balancing in the UK
+### 2.2 Grid balancing in the UK
 
 - [Demand-side response program](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36&wmediaid=tjkmc4fldw) Education video by The Energy Academy from Modo Energy.
 - [Software to monitor on-demand control](https://optimizeinfrastructure.com/) Optimize Infrastructure website.
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.co.uk/news/science-environment-65500339?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=ED95988A-EF8E-11ED-AA70-00BCD772BE90) Article from BBC News, May 2023. There are delays in connecting new power plants to the grid. This is spare capacity that could be monetised with Bitcoin mining.
 
 
-### 1.3 Grid balancing in the UAE with fossil fuel
+### 2.3 Grid balancing in the UAE with fossil fuel
 
 - [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/) Research article by Jaran Mellerud. 
 
-### 1.4 Other Resources
+### 2.4 Other Resources
 
 - [Bitcoin mining around the world](https://hashrateindex.com/blog/tag/bitcoin-mining-around-the-world/) Series of in-depth research articles by Jaran Mellerud.
 - [Nima Tabatai](https://youtu.be/uMO28OP0EWg) from Modo Energy talking on What Bitcoin Did
@@ -75,9 +76,9 @@ ERCOT:
 - [Load banks](https://twitter.com/dsbatten/status/1705139524534489117?s=61&t=M24ZUm1ExYgHLnQ8D16I8Q) Tweet by Daniel Batten
 
 
-## 2. Finance energy projects
+## 3. Finance energy projects
 
-### 2.1 In Developped Countries
+### 3.1 In Developped Countries
 
 
 UK (the potential for mining stranded energy)
@@ -100,7 +101,7 @@ Oman
 - [Green Data City](https://www.greendatacityoman.com/) Government project in Oman.
 - [Sebastien Gouspillou's announcement about Green Data City](https://youtu.be/iPJO9qThdIw?t=359) interviewed by GAC during Africa Bitcoin Conference 2023.
 
-### 2.2 In Emerging Countries
+### 3.2 In Emerging Countries
 
 El Salvador
 - [Volcano Energy Mining Pool Goes Live](https://bitcoinmagazine.com/business/volcano-energy-bitcoin-mining-pool-goes-live?utm_source=pocket_saves) Article in Bitcoin Magazine.
@@ -131,7 +132,7 @@ Indonesia
 
 
 
-## 3. Create incentives to collect nasty stuff
+## 4. Create incentives to collect nasty stuff
 
 
 - [The problem with methane](https://youtu.be/oS1FGdngXVs?t=2898) Daniel Batten explains why capturing methane is a priority above reducing CO2 emissions. The video was recorded for Surfin Bitcoin 2022.
@@ -142,7 +143,7 @@ Indonesia
 - [Bitcoin could become a zero-emission network: Report](https://cointelegraph.com/news/bitcoin-could-become-a-zero-emission-network-report) article by Coin Telegraph, August 2022.
 
 
-### 3.1 Pay oil exploration sites to flare gas cleanly
+### 4.1 Pay oil exploration sites to flare gas cleanly
 
 - [Bitcoin mining can mitigate gas flaring](https://youtu.be/oS1FGdngXVs?t=6280) Presentation by Jaran Mellerud during Surfin Bitcoin 2022.
 - [Tour of a BTC farm at a flare gas oil well](https://www.youtube.com/watch?v=90ToBZ0PNqc) Video by Space Design Warehouse.
@@ -156,7 +157,7 @@ Companies active in this field:
   - [Use cases](https://ezblockchain.net/cases/) Shows plenty of photographs of actual gas flaring installations. 
 
 
-### 3.2 Reward municipalities for capturing methane from landfills
+### 4.2 Reward municipalities for capturing methane from landfills
 
 - [How a Landfill Gas Collection System Works](https://youtu.be/W3VayVWUrGM) Explainer video by Landfill-Site.com
 - Companies active in this field:
@@ -171,7 +172,7 @@ Companies active in this field:
        - [Cashing in on Trash: Bitcoin Mining Fixes Landfill Emissions](https://www.youtube.com/watch?v=XwDh8I6FfEQ&list=PL_dlgCybckirJ-ldLULlKc39C3WTv5-xh&index=3) Bitcoin magazine interview of Adam Swick from Marathon Digital, October 2023.
 
 
-### 3.3 Reward farms for capturing biogas... 
+### 4.3 Reward farms for capturing biogas... 
 
 Ireland
 - [In Remote Northeast Ireland, this Bitcoin Miner is Turning Biogas into Sats](https://bitcoinmagazine.com/business/profiting-on-biogas-with-bitcoin-mining) Article by Bitcoin Magazine, October 2022.
@@ -183,21 +184,21 @@ France
 - [Datafarm Energy](https://datafarmenergy.com/en/home-en/) builds infrastructure to collect gas from biowaste.
   - [the collected gas is sent to a bitcoin miner](https://youtu.be/q_rXb5x-DjQ?t=61) and [hot air from ASICs is re-used to heat-up greenhouses](https://youtu.be/q_rXb5x-DjQ?t=1845) as explained by Stephane Petibon at Surfin Bitcoin 2022. 
 
-### 3.4 ...and even cooking oil
+### 4.4 ...and even cooking oil
 
 - [Bitcoin Lake](https://twitter.com/LakeBitcoin) is a Bitcoin initiative in Guatemala that collects the cooking oil that would otherwise be thrown into the lake by villagers, as explained [here](https://twitter.com/namcios/status/1572705863252561922?s=46&t=B8L3kXZVJxzq4AJvktjj8Q).
   - [The cooking oil mining rig in action](https://twitter.com/DocumentingBTC/status/1570029184675901441) (video).   
 
 
 
-## 4. Reduce heating bills
+## 5. Reduce heating bills
 
 
 - [Jaran Mellerud about heat reuse](https://youtu.be/oS1FGdngXVs?t=6333) speaking at Surfin Bitcoin 2022.
 - [Joule heating](https://en.wikipedia.org/wiki/Joule_heating) Current sent through a conductor produces heat whether it is a toaster or an ASIC.
 - [Re-using mining heat](https://nicosmid.substack.com/p/re-using-mining-heat?r=1id316&utm_campaign=post&utm_medium=web) Blog post by Nico Simid.
 
-### 4.1 Home heating
+### 5.1 Home heating
 
 - [Heatbit](https://heatbit.com)
   - [Heatbit mini 300W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available Q4 2023 price <$750.
@@ -207,7 +208,7 @@ France
 - [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
 
 
-### 4.2 Industrial heating
+### 5.2 Industrial heating
 
 - [How Bitcoin Improves Water Abundance in Water Scarce Nations](https://bitcoinmagazine.com/technical/how-bitcoin-improves-water-abundance-in-water-scarce-nations) Dec 2023 article by Daniel Batten about heat re-use in UAE desalination plants. 
 - [Whisky distillery](https://mintgreen.co/projects/shelter-point-distillery/) The Shelter Point Distillery project by Mintgreen in Canada.
@@ -225,14 +226,14 @@ France
  - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
 
 
-## 5. Non Sustainable Uses of Timestamping
+## 6. Non Sustainable Uses of Timestamping
  
-### 5.1 Compete with residential users for the same electricity source
+### 6.1 Compete with residential users for the same electricity source
 
 - [2018 Moratorium on Bitcoin mining](https://youtu.be/-M6222N2_O8) in Plattsburgh, State of New York, USA. Video from Mountain Lake PBS. 
 - [2022 Moratorium on Bitcoin mining](https://www.investopedia.com/crypto-mining-ban-5409564) by the State of New York and proposed law to ban mining from fossil fuel. Article by Eric Rosenberg in Investopedia.
 
-### 5.2 Use fossil fuels
+### 6.2 Use fossil fuels
 
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
