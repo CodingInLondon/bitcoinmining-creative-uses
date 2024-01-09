@@ -209,6 +209,7 @@ France
 
 ### 4.2 Industrial heating
 
+- [How Bitcoin Improves Water Abundance in Water Scarce Nations](https://bitcoinmagazine.com/technical/how-bitcoin-improves-water-abundance-in-water-scarce-nations) Dec 2023 article by Daniel Batten about heat re-use in UAE desalination plants. 
 - [Whisky distillery](https://mintgreen.co/projects/shelter-point-distillery/) The Shelter Point Distillery project by Mintgreen in Canada.
   - [The Mintgreen Whisky tumbler](https://www.youtube.com/watch?v=nTRdmYX-0h8&t=259s) *Warming Up to Bitcoin - The Future of Sustainable Heating?*, video by Kinetic Finance. The device is optimised to bring a smooth flow of hot air to whisky barrels.
 - [Mintgreen district heating](https://mintgreen.co/#projects), twitter [@MintGreenHQ](https://twitter.com/MintGreenHQ). 
