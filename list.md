@@ -18,7 +18,7 @@ This is a collection of concrete examples of usage of Bitcoin mining around the 
 
 
 
-![](Cover3.jpg)
+![Book cover concept](Cover3.jpg)
 
 
 
@@ -55,16 +55,23 @@ ERCOT:
  - [Negative electricity prices](https://youtu.be/oS1FGdngXVs?t=5987) Jaran Mellerud speaking at Surfing Bitcoin 2022.
 
 
-### 2.2 Grid balancing in the UK
+### 2.2 Grid balancing in the UAE with fossil fuel
+
+- [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/) Research article by Jaran Mellerud. 
+
+
+### 2.3 Opportunities in other areas
+
+#### UK
 
 - [Demand-side response program](https://platform.modo.energy/phase/channels?wchannelid=wy5tng1x36&wmediaid=tjkmc4fldw) Education video by The Energy Academy from Modo Energy.
 - [Software to monitor on-demand control](https://optimizeinfrastructure.com/) Optimize Infrastructure website.
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.co.uk/news/science-environment-65500339?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_ptr_name=twitter&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=ED95988A-EF8E-11ED-AA70-00BCD772BE90) Article from BBC News, May 2023. There are delays in connecting new power plants to the grid. This is spare capacity that could be monetised with Bitcoin mining.
 
+#### France
+- [La modulation nucléaire : un risque majeur](https://www.lemondedelenergie.com/modulation-nucleaire-risque-majeur/2023/02/09/) Feb 2023 article by Jean-Jacques Nieuviaert published in lemondedelernergie.com explaining why excess nuclear energy is a problem.
 
-### 2.3 Grid balancing in the UAE with fossil fuel
 
-- [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/) Research article by Jaran Mellerud. 
 
 ### 2.4 Other Resources
 
