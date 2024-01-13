@@ -222,16 +222,17 @@ France
   - [The Mintgreen Whisky tumbler](https://www.youtube.com/watch?v=nTRdmYX-0h8&t=259s) *Warming Up to Bitcoin - The Future of Sustainable Heating?*, video by Kinetic Finance. The device is optimised to bring a smooth flow of hot air to whisky barrels.
 - [Mintgreen district heating](https://mintgreen.co/#projects), twitter [@MintGreenHQ](https://twitter.com/MintGreenHQ). 
 - [Sai.Tech](https://sai.tech/) Agriculture heating + district heating in the US with liquid cooling boilers.
+- [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
+- [Boil the Oceans with Fred Thiel - Pacific Bitcoin 2023](https://youtu.be/Q6N2Ftqhs9Q?si=mhKxNswrgRbEKW1v&t=446) Marathon Digital CEO explains shrimp farming during Pacific Bitcoin 2023.
 - [Bitcoin Bloem](http://www.bitcoinbloem.com/) Greenhouse heating in Holland to grow flowers. twitter [@BloemBitcoin](https://twitter.com/bloembitcoin)
   - [Flower powered: Bitcoin miner heats greenhouses in the Netherlands](https://cointelegraph.com/news/flower-powered-bitcoin-miner-heats-greenhouses-in-the-netherlands) Article by Joe Hall in the CoinTelegraph.
   - [Warehouse heating](https://twitter.com/bitcoinbrabant/status/1577644318399029250) by Bitcoin Brabant.
-  - [Bitcoin Brabant twitter](https://twitter.com/BitcoinBrabant)
+  - [Bitcoin Brabant](https://twitter.com/BitcoinBrabant) twitter.
  - [Hotel in Europe heated with ASICs](https://twitter.com/DCX_Immersion/status/1578812160641478656?s=20) using immersion cooling by [DCX Immersion Mining](https://twitter.com/DCX_Immersion).
  - [Bitcoin mining at Bathhouse](https://help.abathhouse.com/hc/en-us/sections/16748763472020-Bitcoin-Mining) explainer articles by Bathhouse NYC describing how their spa water tank heating equipment is set-up. 
    - Bathhouse NYC [website](https://www.abathhouse.com/).  
    - [Mini video report](https://twitter.com/MorningBrew/status/1736862534265688369) by MorningBrew showing details of the equipment.
- - [Fruit drying in Congo](https://www.youtube.com/watch?v=Wv-TlzCyYOY&t=653s) Sebastien Gouspillou speaking on Grand Angle Crypto.
-
+ 
 
 ## 6. Non Sustainable Uses of Timestamping
  
