@@ -1,10 +1,12 @@
-# Bitcoin and Energy
+![Book cover concept](Cover4.jpg)
+
+# List of References
 
 
 
 
-This is a collection of concrete examples of usage of Bitcoin mining around the world. It's a bullet-point version of a blog post
-[Bitcoin and Energy: The Weird Economics of Timestamping](https://www.opcodeconsulting.com/post/the-weird-economics-of-timestamping).
+This is a collection of concrete examples of energy monetisation around the world. It's a bullet-point version of a blog post
+[The Machine that Turns Energy into Money](https://www.soundopcodes.dev/post/the-weird-economics-of-timestamping).
 
 
 
@@ -18,7 +20,7 @@ This is a collection of concrete examples of usage of Bitcoin mining around the 
 
 
 
-![Book cover concept](Cover3.jpg)
+
 
 
 
@@ -129,6 +131,7 @@ Nigeria, Kenya, Malawi
   - [Energy and Bitcoin in Africa](https://gridlesscompute.com/2023/05/17/a-blueprint-for-bitcoin-mining-and-energy-in-africa/) Paper by Gridless that explains the business case and technical set-up behind mini-grids in rural Africa.
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
   - [Bitcoin in Africa Show: Live from 2023 Africa Bitcoin Mining Summit; Gridless's Gitugu Site Tour](https://youtu.be/1v7Q6SD3wjc?feature=shared) Detailed visit of a hydro power site in Kenya.
+  - [Gridless expands to farm waste](https://twitter.com/GridlessCompute/status/1741001954673999956) twitter post.
 
 Bhutan
   - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
