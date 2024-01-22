@@ -55,6 +55,7 @@ ERCOT:
  - [selling back to the grid](https://youtu.be/9ISSe8A3pVc?t=1466) Bitcoin mining council Q2 2022
  - [Demand-response types of contract](https://youtu.be/9ISSe8A3pVc?t=1466) Pierre Rochard speaking at Surfing Bitcoin 2022.
  - [Negative electricity prices](https://youtu.be/oS1FGdngXVs?t=5987) Jaran Mellerud speaking at Surfing Bitcoin 2022.
+ - [Les mineurs de bitcoin américains soulagent le réseau électrique pendant la vague de froid](https://www.cointribune.com/les-mineurs-de-bitcoin-americains-soulagent-le-reseau-electrique-pendant-la-vague-de-froid) January 2024 article from Cointribune giving an example of how the Texas grid protects itself by switching off miners in winter. 
 
 
 ### 2.2 Grid balancing in the UAE with fossil fuel
