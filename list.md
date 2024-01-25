@@ -126,13 +126,14 @@ Congo
 Nigeria, Kenya, Malawi
 - [The surprising, simple answer to Africa’s rural energy problems – Bitcoin mining](https://www.msn.com/en-za/news/other/the-surprising-simple-answer-to-africa-s-rural-energy-problems-bitcoin-mining/ar-AA1hiJ6p) Msn article explaining the economics behind mini grids, September 2023.
 - [Post Halving Strategies For Miners - Bitcoin Amsterdam 2023](https://youtu.be/S3X6UDCwd8w?si=iEb7aA4sHd-myMLe&t=1414) Nigeria government allows individuals to produce up to 1MW of electricity (mini grids).
-- [Gridless](https://gridlesscompute.com/) Specialise in river and solar bitcoin mining in Africa
+- [Gridless](https://gridlesscompute.com/) specialises in river and solar bitcoin mining in Africa
   - [Gridless twitter](https://twitter.com/GridlessCompute)
   - [Gridless Is Extending Power to Rural Africa](https://www.coindesk.com/consensus-magazine/2023/04/17/gridless-mining-extends-power-in-africa/) Article by CoinDesk, April 2023.
   - [Energy and Bitcoin in Africa](https://gridlesscompute.com/2023/05/17/a-blueprint-for-bitcoin-mining-and-energy-in-africa/) Paper by Gridless that explains the business case and technical set-up behind mini-grids in rural Africa.
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
   - [Bitcoin in Africa Show: Live from 2023 Africa Bitcoin Mining Summit; Gridless's Gitugu Site Tour](https://youtu.be/1v7Q6SD3wjc?feature=shared) Detailed visit of a hydro power site in Kenya.
   - [Gridless expands to farm waste](https://twitter.com/GridlessCompute/status/1741001954673999956) twitter post.
+- [Stranded: How Bitcoin is saving wasted energy and expanding financial freedom in Africa](https://bitcoinmagazine.com/check-your-financial-privilege/stranded-bitcoin-saving-wasted-energy-in-africa?new) Article by Alex Gladstein, January 2024. 
 
 Bhutan
   - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
