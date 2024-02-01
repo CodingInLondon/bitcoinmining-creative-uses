@@ -248,6 +248,8 @@ France
 
 ### 6.2 Use fossil fuels
 
+
+- [Issue #003: One red, three green](https://www.batcoinz.com/p/issue-003-one-red-three-green) Article by Daniel Batten showing a sustainable mining estimate at 54.5%, January 2024.
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
 - [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
 - [The theory of the last man standing](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
