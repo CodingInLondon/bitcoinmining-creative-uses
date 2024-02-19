@@ -133,7 +133,9 @@ Nigeria, Kenya, Malawi
   - [Micro hydro plants](https://twitter.com/hash_bender/status/1577354828551962624) example of very small Bitcoin mining setup on a water streams.
   - [Bitcoin in Africa Show: Live from 2023 Africa Bitcoin Mining Summit; Gridless's Gitugu Site Tour](https://youtu.be/1v7Q6SD3wjc?feature=shared) Detailed visit of a hydro power site in Kenya.
   - [Gridless expands to farm waste](https://twitter.com/GridlessCompute/status/1741001954673999956) twitter post.
+  - [Gridless - Janet Maingi - AB24CPT Day 1 - Machankura Stage](https://youtu.be/Pn9WXvrtH90?si=vdWWIAGeSfO7zP2G&t=508) Presentation of Gridless by co-founder Janet Maingi at Adopting Bitcoin Cape Town 2024
 - [Stranded: How Bitcoin is saving wasted energy and expanding financial freedom in Africa](https://bitcoinmagazine.com/check-your-financial-privilege/stranded-bitcoin-saving-wasted-energy-in-africa?new) Article by Alex Gladstein, January 2024. 
+- [The African village mining Bitcoin](https://unherd.com/2024/01/the-african-village-mining-bitcoin/) Article by Michael Tobin and Ian Birrell, Unherd, January 2024. 
 
 Bhutan
   - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
@@ -193,7 +195,7 @@ Ireland
   - Twitter: [https://twitter.com/ScillingMining](https://twitter.com/ScillingMining)
 
 France
-- [4NK](https://4nkweb.com/?trk=public_post-text) Provides certification/timestamping services. Offsets the CO2 footprint of its nodes using methane capture from the wastewater treatment process.
+- [4NK](https://4nkweb.com/?trk=public_post-text) provides certification/timestamping services. They offset the CO2 footprint of their nodes using methane capture from the wastewater treatment process.
 - [Datafarm Energy](https://datafarmenergy.com/en/home-en/) builds infrastructure to collect gas from biowaste.
   - [the collected gas is sent to a bitcoin miner](https://youtu.be/q_rXb5x-DjQ?t=61) and [hot air from ASICs is re-used to heat-up greenhouses](https://youtu.be/q_rXb5x-DjQ?t=1845) as explained by Stephane Petibon at Surfin Bitcoin 2022. 
 
