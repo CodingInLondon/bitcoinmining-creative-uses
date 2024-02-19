@@ -23,8 +23,6 @@ This is a collection of concrete examples of energy monetisation around the worl
 
 
 
-
-
 ## 1. General resources:
 
 - [Understanding Proof of Work - A non technical introduction to bitcoin mining and its implications for investors](https://www.fidelitydigitalassets.com/research-and-insights/understanding-proof-work) Paper by Fidelity Digital Assets.
@@ -94,6 +92,8 @@ ERCOT:
 UK (the potential for mining stranded energy)
 - [Renewable energy projects worth billions stuck on hold](https://www.bbc.com/news/science-environment-65500339) BBC article on the issue of interconnect queues in the UK.
 - [British energy developers to be told: speed up projects or leave queue for grid](https://www.theguardian.com/business/2023/jun/02/britibritish-energy-developers-projects-national-grid-solar-power) Guardian article on the issue of interconnect queues for solar projects in the UK.
+
+
 
 US
 - [From Mining to Mitigation: How Bitcoin Can Support Renewable Energy Development and Climate Action](https://pubs.acs.org/doi/epdf/10.1021/acssuschemeng.3c05445) Study published in *ACS Sustainable Chemistry & Engineering*.
@@ -193,6 +193,7 @@ Ireland
   - Twitter: [https://twitter.com/ScillingMining](https://twitter.com/ScillingMining)
 
 France
+- [4NK](https://4nkweb.com/?trk=public_post-text) Provides certification/timestamping services. Offsets the CO2 footprint of its nodes using methane capture from the wastewater treatment process.
 - [Datafarm Energy](https://datafarmenergy.com/en/home-en/) builds infrastructure to collect gas from biowaste.
   - [the collected gas is sent to a bitcoin miner](https://youtu.be/q_rXb5x-DjQ?t=61) and [hot air from ASICs is re-used to heat-up greenhouses](https://youtu.be/q_rXb5x-DjQ?t=1845) as explained by Stephane Petibon at Surfin Bitcoin 2022. 
 
@@ -251,7 +252,7 @@ France
 
 - [Issue #003: One red, three green](https://www.batcoinz.com/p/issue-003-one-red-three-green) Article by Daniel Batten showing a sustainable mining estimate at 54.5%, January 2024.
 - [Bitcoin mining global energy mix estimated at 58.8%](https://bitcoinminingcouncil.com/wp-content/uploads/2023/01/BMC-Q4-2022-Presentation.pdf) Slide 9 of BMC Q4 2022 Presentation, January 2023.
-- [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten.
+- [Bitcoin mining broken down by energy source](https://batcoinz.com/bitcoin-by-energy-source/) Research by Daniel Batten, March 2023.
 - [The theory of the last man standing](https://youtu.be/DlmzYT24_5s) Explainer video by Grand Angle Crypto (in French).
 - [Who will be the last man standing?](https://youtu.be/VF4rzFuQkyQ) Sebastien Gouspillou speaking on Grand Angle Crypto (in French).
 - [Energy market economics 101: the generation stack](https://youtu.be/p9lLh8teeKA?t=98) Video by Modo Energy. Peaker plants running on fuel or gas are the most expensive layer of the stack.
