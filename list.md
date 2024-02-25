@@ -97,6 +97,8 @@ UK (the potential for mining stranded energy)
 
 US
 - [From Mining to Mitigation: How Bitcoin Can Support Renewable Energy Development and Climate Action](https://pubs.acs.org/doi/epdf/10.1021/acssuschemeng.3c05445) Study published in *ACS Sustainable Chemistry & Engineering*.
+- [Terawulf mining facilities](https://www.terawulf.com/terawulf-facilities/) Company page showing details of the facilities including the Nautilus Cryptomine based 100% on nuclear.
+- [TeraWulf's Zero-Carbon Hydro and Nuclear Powered Bitcoin Mining Facilities Tour](https://youtu.be/ojIFztiWTAE?feature=shared) Shows the inside of the various mining farms, employee interviews and monitoring rooms. 
 
 
 Hawaii:
