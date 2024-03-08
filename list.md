@@ -225,8 +225,10 @@ France
 - [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
 
 
-### 5.2 Industrial heating
+### 5.2 Industrial applications
 
+- [Flowsolve](https://www.flowsolve.io) Company developing tech that optimises water desalination using heat from Bitcoin mining.
+  - [Bitcoin Atlantis | Day 2 | Satoshi Stage](https://www.youtube.com/live/bikLdxCKQjc?si=E_PSHfWfAshKmC7a&t=6420) Willem van Rooyen explains desalination optimised with a proprietary micro-controller. March 2024. Timestamp 1:47'00''
 - [How Bitcoin Improves Water Abundance in Water Scarce Nations](https://bitcoinmagazine.com/technical/how-bitcoin-improves-water-abundance-in-water-scarce-nations) Dec 2023 article by Daniel Batten about heat re-use in UAE desalination plants. 
 - [Whisky distillery](https://mintgreen.co/projects/shelter-point-distillery/) The Shelter Point Distillery project by Mintgreen in Canada.
   - [The Mintgreen Whisky tumbler](https://www.youtube.com/watch?v=nTRdmYX-0h8&t=259s) *Warming Up to Bitcoin - The Future of Sustainable Heating?*, video by Kinetic Finance. The device is optimised to bring a smooth flow of hot air to whisky barrels.
