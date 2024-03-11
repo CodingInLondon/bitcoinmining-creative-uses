@@ -217,8 +217,11 @@ France
 
 ### 5.1 Home heating
 
+- [21 Energy](https://21energy.com/) 
+  - [Ofen 800W ](https://21energy.com/products/ofen) €710, contains an Antminer S9.
+  - [Ofen Pro 1000W](https://21energy.com/products/ofen-pro) €2998, contains an Antminer S19.
 - [Heatbit](https://heatbit.com)
-  - [Heatbit mini 300W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available Q4 2023 price <$750.
+  - [Heatbit mini 400W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available for $799.
 - [Hestiaa](https://hestiia.com/en) Company based in France.
   - [myEko](https://hestiia.com/en/myEko) Single room heating unit.
   - [SATO](https://hestiia.com/en/blog/the-incredible-story-of-sato) water heater.
