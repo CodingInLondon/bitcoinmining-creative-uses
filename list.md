@@ -223,8 +223,7 @@ France
 - [Heatbit](https://heatbit.com)
   - [Heatbit mini 400W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available for $799.
 - [Hestiaa](https://hestiia.com/en) Company based in France.
-  - [myEko](https://hestiia.com/en/myEko) Single room heating unit.
-  - [SATO](https://hestiia.com/en/blog/the-incredible-story-of-sato) water heater.
+  - [myEko ](https://hestiia.com/en/pages/myeko) Single room heating unit for €990.
 - [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
 
 
