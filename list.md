@@ -139,6 +139,9 @@ Nigeria, Kenya, Malawi
 - [Stranded: How Bitcoin is saving wasted energy and expanding financial freedom in Africa](https://bitcoinmagazine.com/check-your-financial-privilege/stranded-bitcoin-saving-wasted-energy-in-africa?new) Article by Alex Gladstein, January 2024. 
 - [The African village mining Bitcoin](https://unherd.com/2024/01/the-african-village-mining-bitcoin/) Article by Michael Tobin and Ian Birrell, Unherd, January 2024. 
 
+Ethiopia
+- [Ethiopia To Become The First African Country To Start Bitcoin Mining](https://www.forbes.com/sites/digital-assets/2024/02/21/ethiopia-to-become-the-first-african-country-to-start-bitcoin-mining/) Forbes, February 2024.
+
 Bhutan
   - [DHI confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/) Article published in The Bhutanese, April 2023.
   - [Bhutan Plans a $500 Million Fund for Crypto Mining in the Himalayas](https://www.bitdeer.com/news/bhutan-plans-a-500-million-fund-for-crypto-mining-in-the-himalayas) Announcement by Bitdeer, May 2023.
