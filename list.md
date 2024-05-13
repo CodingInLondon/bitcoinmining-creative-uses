@@ -225,7 +225,7 @@ France
   - [Ofen Pro 1000W](https://21energy.com/products/ofen-pro) €2998, contains an Antminer S19.
 - [Heatbit](https://heatbit.com) (US)
   - [Heatbit mini 400W](https://twitter.com/heatbit_com/status/1647191913789812736?s=20) available for $799.
-- [Hestiaa](https://hestiia.com/en) (France).
+- [Hestiia](https://hestiia.com/en) (France).
   - [myEko ](https://hestiia.com/en/pages/myeko) Single room heating unit for €990.
 - [RY3T](https://ry3t.com/en/) (Switzerland) makes devices for larger homes. 
 - [Brains home mining guide (DIY)](https://braiins.com/blog/guide-home-hvac-heating-bitcoin-mining)
