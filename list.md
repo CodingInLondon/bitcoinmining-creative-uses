@@ -118,6 +118,7 @@ Oman
 El Salvador
 - [Volcano Energy Mining Pool Goes Live](https://bitcoinmagazine.com/business/volcano-energy-bitcoin-mining-pool-goes-live?utm_source=pocket_saves) Article in Bitcoin Magazine.
 - [Volcano Energy](https://twitter.com/Volcano_Energy?s=20) on Twitter.
+- [El Salvador mined nearly 474 bitcoins, adding to state crypto holding, in last three years](https://www.reuters.com/world/americas/el-salvador-mined-nearly-474-bitcoins-adding-state-crypto-holding-last-three-2024-05-14/) Reuters.
 
 
 Congo
